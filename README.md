@@ -9,12 +9,12 @@
 
 ## Features
 
-Web application firewall detection.
-Cross Site Scripting (XSS) tests.
-SQL injection time based test.
-SQL injection error based test.
-Local File Inclusion (LFI) test.
-Cross Site Tracing (XST) test.
+### Web application firewall detection.
+### Cross Site Scripting (XSS) tests.
+### SQL injection time based test.
+### SQL injection error based test.
+### Local File Inclusion (LFI) test.
+### Cross Site Tracing (XST) test.
 
 
 
