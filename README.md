@@ -9,12 +9,17 @@
 
 ## Features
 
-#### Web Application Firewall (WAF) detection.
-#### Cross Site Scripting (XSS) tests.
-#### SQL injection time based test.
-#### SQL injection error based test.
-#### Local File Inclusion (LFI) test.
-#### Cross Site Tracing (XST) test.
+Web Application Firewall (WAF) detection.
+
+Cross Site Scripting (XSS) tests.
+
+SQL injection time based test.
+
+SQL injection error based test.
+
+Local File Inclusion (LFI) test.
+
+Cross Site Tracing (XST) test.
 
 ***
 
