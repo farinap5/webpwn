@@ -16,9 +16,12 @@
 #### Local File Inclusion (LFI) test.
 #### Cross Site Tracing (XST) test.
 
+
 ### Download and Run
 
-> git clone 
+> git clone https://github.com/farinap5/webpwn.git
+
 > cd webpwn
+
 > python3 webpwn.py http://example.com/page.php?cat=1
 
