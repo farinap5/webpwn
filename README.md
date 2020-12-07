@@ -78,3 +78,13 @@ Powered: PHP/5.6.40-38+ubuntu20.04.1+deb.sury.org+1
 [*] This site seems vulnerable to Cross Site Tracing (XST)!
 
 ```
+
+***
+
+## Discaimer
+
+```
+Usage of the webpwn for attack targets without prior mutual consent is illegal. 
+It is the end user's responsability to obey all applicable local, state, federal and international laws. 
+Developer assume no liability and not responsible for any misuse or damage caused by this program.
+```
