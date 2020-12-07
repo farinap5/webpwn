@@ -9,7 +9,7 @@
 
 ## Features
 
-### Web application firewall detection.
+#### Web application firewall detection.
 ### Cross Site Scripting (XSS) tests.
 ### SQL injection time based test.
 ### SQL injection error based test.
