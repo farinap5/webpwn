@@ -1,3 +1,6 @@
+#Usage of the webpwn for attack targets without prior mutual consent is illegal. 
+#It is the end user's responsability to obey all applicable local, state, federal and international laws. 
+#Developer assume no liability and not responsible for any misuse or damage caused by this program.
 #Code Made By farinap5
 #Version 1.0
 #What will be scanned.
