@@ -16,6 +16,7 @@
 #### Local File Inclusion (LFI) test.
 #### Cross Site Tracing (XST) test.
 
+***
 
 ### Download and Run
 
@@ -25,3 +26,5 @@
 
 > python3 webpwn.py http://example.com/page.php?cat=1
 
+***
+### Example of Output
