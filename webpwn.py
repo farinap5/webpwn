@@ -1,8 +1,5 @@
-#Usage of the webpwn for attack targets without prior mutual consent is illegal. 
-#It is the end user's responsability to obey all applicable local, state, federal and international laws. 
-#Developer assume no liability and not responsible for any misuse or damage caused by this program.
 #Code Made By farinap5
-#Version 1.0
+#Version 1.2
 #What will be scanned.
 #xss
 #sql
@@ -208,6 +205,7 @@ if 'http' not in url:
 if '?' not in url:
     help()
 
+timing1 = time.time()
 checkwaf(url)
 banner(url)
 header(url)
@@ -215,3 +213,8 @@ xss_(url)
 sql_(url)
 lfi_(url)
 xst_(url)
+timing2 = time.time()
+timet = timing2 - timing1
+timet = str(timet)
+timet = timet.split(".")
+print("\n[!] Time used:",timet[0],"seconds.\n")
